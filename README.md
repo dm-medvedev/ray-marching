@@ -9,4 +9,4 @@ In this project were created 3 different scenes:
 
 3. Fractal «cabbage»  can be found in «Fractal_cabbage» folder together with code, executable file «program» and result picture «FRACTAL_s_AO.bmp» (for this scene ambient occlusion was applied).
 
-For more details read "task.pdf".
+For more details read «task.pdf».
