@@ -1,5 +1,5 @@
 # ray-marching
-C++ project, with using of OpenGL  
+**C++ project, with OpenGL using**
 
 In this project were created 3 different scenes:
 
