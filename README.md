@@ -16,4 +16,4 @@ In this project were created 3 different scenes:
 3. Fractal «pyramid»  can be found in «Fractal_triangle» folder together with code, executable file «program» and result picture «FRACTAL.bmp».  
 ![pic4](https://github.com/dm-medvedev/ray-marching/blob/master/Fractal_triangle/FRACTAL.bmp)
 
-For more details read «task.pdf».
+For more details read [«task.pdf»](https://github.com/dm-medvedev/ray-marching/blob/master/task.pdf).
