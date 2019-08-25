@@ -1,6 +1,6 @@
 **Base scene** 
 Code in this folder produces two scenes:  
 1) Base scene with simple geometric figures without reflective surface  
-![pic1](https://github.com/dm-medvedev/ray-marching/blob/master/Base/Base_bez.bmp)
+<img src="https://github.com/dm-medvedev/ray-marching/blob/master/base/result/base-no-reflect.bmp" alt="drawing" width="400"/>
 2) Base scene with simple geometric figures with reflective surface  
-![pic2](https://github.com/dm-medvedev/ray-marching/blob/master/Base/Base_s_otr.bmp)
+<img src="https://github.com/dm-medvedev/ray-marching/blob/master/base/result/base-with-reflect.bmp" alt="drawing" width="400"/>
