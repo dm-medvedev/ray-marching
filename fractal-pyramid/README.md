@@ -1,3 +1,3 @@
 **Fractal «pyramid» scene**  
 Code in this folder produce fractal «pyramid» scene.  
-![pic](https://github.com/dm-medvedev/ray-marching/blob/master/Fractal_triangle/FRACTAL.bmp)
+<img src="https://github.com/dm-medvedev/ray-marching/blob/master/fractal-pyramid/result/pyramid.bmp" alt="drawing" width="600"/>
