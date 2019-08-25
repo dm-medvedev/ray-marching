@@ -10,5 +10,3 @@ In this project were created 3 different scenes:
    <img src="https://github.com/dm-medvedev/ray-marching/blob/master/fractal-cabbage/result/cabbage.bmp" alt="drawing" width="600"/>  
 3. Fractal «pyramid» scene:  
    <img src="https://github.com/dm-medvedev/ray-marching/blob/master/fractal-pyramid/result/pyramid.bmp" alt="drawing" width="600"/>
-
-For more details read [task.pdf](https://github.com/dm-medvedev/ray-marching/blob/master/task.pdf).
